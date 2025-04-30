@@ -26,4 +26,7 @@ This project is designed to handle discounts and payment methods for a clothing 
 - 📊 Develop a dashboard for tracking sales and discounts
 
 ## Author
-Created by **Buddy** // The Microsoft Bing CoPlilot // 🏆
+Ibrahim Newaz
+
+// ※ This README.md file written by **Buddy** ※ // The Microsoft Bing CoPlilot //
+
